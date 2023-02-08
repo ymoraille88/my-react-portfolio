@@ -22,7 +22,7 @@ git commit -m 'deploy'
 
 
 
-# if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
+# if you are deploying to https://ymoraille88github.io/my-react-portfolio
+git push -f git@github.com:<ymoraille88/my-react-portfolio.git main:gh-pages
 
 cd -
